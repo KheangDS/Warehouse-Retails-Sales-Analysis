@@ -8,10 +8,7 @@ The goal of this project is to transform raw transactional sales data into meani
 
 ---
 
-## Preview Dashboard: 
-Dashboard url : https://app.powerbi.com/groups/me/reports/4b928cbc-f06a-4042-a229-90bb33bb75cf/029ea162f479edf3bd57?experience=power-bi
 
----
 
 ## Dataset Information
 
